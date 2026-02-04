@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind utilities;
+
+:root {
+  --primary: #2563eb; /* Enterprise Blue */
+  --background: #f8fafc;
+  --text-main: #0f172a;
+}
+
+body {
+  background: var(--background);
+  color: var(--text-main);
+}
